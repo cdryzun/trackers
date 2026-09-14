@@ -501,6 +501,7 @@
 23.175.184.30
 31.38.161.123
 31.56.179.159
+31.59.141.120
 34.170.169.34
 34.52.190.155
 34.66.57.33
@@ -514,6 +515,7 @@
 37.59.48.81
 37.60.249.217
 38.175.99.50
+38.180.157.12
 4.tracker.devnak.win
 43.154.112.29
 43.250.54.126
@@ -528,6 +530,7 @@
 45.154.214.21
 45.154.96.35
 45.155.53.144
+45.38.170.167
 45.7.231.102
 45.9.60.30
 46.232.55.100
@@ -537,6 +540,7 @@
 47.54.19.9
 47.54.240.69
 47.55.183.231
+47.76.201.250
 49.13.133.10
 4olv65sj4ifeak26wqiifr3q2vjv5d44x733ncqhtd7cmjwoinpa.b32.i2p
 5.102.159.190
@@ -666,6 +670,7 @@
 83.6.233.63
 84.54.51.78
 85.121.5.80
+85.17.55.112
 86.127.239.222
 86.127.250.81
 86.57.161.157
@@ -679,6 +684,7 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
+90.226.147.124
 91.177.126.188
 91.186.213.204
 91.208.197.19
@@ -773,6 +779,7 @@ fleira.no
 fosstorrents.com
 freedomalternative.com
 freerainbowtables.com
+freetracker.i2p
 ftp.pet
 funfile.org
 git.vulnix.sh
@@ -918,6 +925,7 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.zukizuki.org
 tr1.aag.moe
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 track3r.site
 trackarr.org
@@ -948,9 +956,11 @@ tracker.bt-hash.com
 tracker.bt4g.com
 tracker.btorrent.xyz
 tracker.btsync.gq
+tracker.bug38.com
 tracker.bz
 tracker.cloudbase.store
 tracker.cloudit.top
+tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cubonegro.org
@@ -980,6 +990,7 @@ tracker.filemail.com
 tracker.files.fm
 tracker.flatuslifir.is
 tracker.fnix.net
+tracker.foreverpirates.co
 tracker.frozen-layer.com
 tracker.frozen-layer.net
 tracker.funfile.org
@@ -990,11 +1001,13 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
+tracker.govt.hu
 tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.hismz.cn
 tracker.ilibr.org
+tracker.insulaocculta.i2p
 tracker.internetwarriors.net
 tracker.iochimari.moe
 tracker.iperson.xyz
@@ -1004,6 +1017,7 @@ tracker.itscraftsoftware.my.id
 tracker.ixuexi.click
 tracker.jdx3.org
 tracker.jiesen.life
+tracker.k.vu
 tracker.kali.org
 tracker.kmzs123.cn
 tracker.leechshield.link
@@ -1023,9 +1037,11 @@ tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nexusstream.eu
 tracker.nighthawk.pw
+tracker.nyaa.net
 tracker.nyaa.vc
 tracker.nyaa2p.i2p
 tracker.ololosh.space
+tracker.onetracker.net
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentorrent.top
@@ -1161,6 +1177,7 @@ xtremewrestlingtorrents.net
 y.paranoid.agency
 y.t-1.org
 yahor.of.by
+yet-another-public-tracker.i2p
 yggtracker.i2p.rocks
 yuki.bt.bontal.net
 yuptracker-eu.gaijinent.com
