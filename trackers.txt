@@ -246,6 +246,7 @@
 177.32.238.49
 177.68.44.127
 178.128.94.74
+178.239.19.29
 179.118.129.138
 179.118.129.194
 179.118.132.77
@@ -407,6 +408,7 @@
 200.168.116.200
 200.168.116.68
 200.168.117.124
+200.168.117.238
 200.168.117.55
 200.170.109.125
 200.170.109.148
@@ -714,6 +716,7 @@ anidex.moe
 anime-tracker.aruku.kro.kr
 announce.partis.si
 api.ipv4online.uk
+archive.torrentonline.cc
 atrack.pow7.com
 baibako.tv
 banananetwork.qzz.io
@@ -1084,6 +1087,7 @@ tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
 tracker.torrentbytes.net
 tracker.torrentleech.org
+tracker.torrents.observer
 tracker.torrentsnows.com
 tracker.torrenty.org
 tracker.torrust-demo.com
