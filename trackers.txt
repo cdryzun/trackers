@@ -147,6 +147,8 @@
 140.235.237.23
 142.132.183.104
 142.171.85.76
+143.20.154.228
+143.20.154.229
 143.246.43.3
 144.126.245.19
 145.223.96.109
@@ -184,6 +186,7 @@
 159.146.99.45
 159.195.43.181
 160.251.231.187
+160.30.240.158
 163.5.63.253
 164.152.110.70
 167.253.78.20
@@ -804,6 +807,7 @@ jutone.com
 jvavav.com
 kaztorka.org
 kinorun.com
+kolankoalastree.newtrackon.co.nz
 kolanopentracker.airdns.org
 leet-tracker.moe
 lucke.fenesisu.moe
@@ -1148,6 +1152,7 @@ utracker.ghostchu-services.top
 vito-tracker.duckdns.org
 vito-tracker.space
 wepzone.net
+whybother.torrentonline.cc
 ws.peer.ooo
 www.2600.com
 www.all4nothin.net
